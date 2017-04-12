@@ -1,0 +1,109 @@
+# Copyright (C) 2017 BuddyPress Language Levels
+# This file is distributed under the same license as the BuddyPress Language Levels package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Language Levels 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bp-language-"
+"levels\n"
+"POT-Creation-Date: 2017-04-12 23:45:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  bp-language-levels.pot (BuddyPress Language Levels 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  bp-language-levels.pot (BuddyPress Language Levels 0.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: admin.php:39
+msgid "BuddyPress Language Levels"
+msgstr ""
+
+#: admin.php:113 bp-language-levels.php:434
+msgid "Languages"
+msgstr ""
+
+#: admin.php:118 admin.php:130
+msgid "Language"
+msgstr ""
+
+#: admin.php:119 admin.php:131
+msgid "remove language"
+msgstr ""
+
+#: admin.php:142
+msgid "Add Language"
+msgstr ""
+
+#: admin.php:148
+msgid "Language Levels"
+msgstr ""
+
+#: admin.php:153 admin.php:174
+msgid "Level Name"
+msgstr ""
+
+#: admin.php:157 admin.php:178
+msgid "Icon URL"
+msgstr ""
+
+#: admin.php:162 admin.php:183
+msgid "remove level"
+msgstr ""
+
+#: admin.php:194
+msgid "Add Level"
+msgstr ""
+
+#: admin.php:199 admin.php:203
+msgid "Save Changes"
+msgstr ""
+
+#: bp-language-levels.php:193 bp-language-levels.php:296
+msgid "Languages you know"
+msgstr ""
+
+#: bp-language-levels.php:197 bp-language-levels.php:223
+#: bp-language-levels.php:300 bp-language-levels.php:326
+msgid "&mdash; Choose Language &mdash;"
+msgstr ""
+
+#: bp-language-levels.php:205 bp-language-levels.php:231
+#: bp-language-levels.php:308 bp-language-levels.php:334
+msgid "&mdash; Select your Level &mdash;"
+msgstr ""
+
+#: bp-language-levels.php:212 bp-language-levels.php:238
+#: bp-language-levels.php:315 bp-language-levels.php:341
+msgid "Remove language"
+msgstr ""
+
+#: bp-language-levels.php:212 bp-language-levels.php:238
+#: bp-language-levels.php:315 bp-language-levels.php:341
+msgid "[-]"
+msgstr ""
+
+#: bp-language-levels.php:247 bp-language-levels.php:350
+msgid "[&plus; Add Languages]"
+msgstr ""
+
+#: bp-language-levels.php:372
+msgid "Your languages were successfully updated."
+msgstr ""
+
+#: bp-language-levels.php:385
+msgid "Languages:"
+msgstr ""
+
+#. #-#-#-#-#  bp-language-levels.pot (BuddyPress Language Levels 0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  bp-language-levels.pot (BuddyPress Language Levels 0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://samelh.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Samuel Elh"
+msgstr ""
